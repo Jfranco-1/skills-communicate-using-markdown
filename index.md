@@ -6,3 +6,8 @@
 ``` javascript
 console.log('Welcome to my code!');
 ```
+
+#### This is a list of things I need to do
+- [ ] Click the button
+- [ ] Don't click the button
+- [ ] Seriously, don't click the button.
